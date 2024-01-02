@@ -8,25 +8,25 @@ The Bible Code Project curently has three related projects under development wit
 
 ##### Active Projects:
 
-[1. American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
-[2. BibleDB Project](https://github.com/ACB-Bible/BibleDB)
-[3. New Christian Bible Project](https://github.com/ACB-Bible/NCB)
+1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
+2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB)
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)
 
 ---
 
 #### Table of Contents:{#toc}
 
-[1. ACB Folder](#acbf)
-[2. BibleDB Folder](#bdbf)
-[3. CodeSnippets Folder](#csf)
-[4. NCB Folder](#ncbf)
-[5. VSCode Folder:](#vscf)
+1. [ACB Folder](#acbf)
+2. [BibleDB Folder](#bdbf)
+3. [CodeSnippets Folder](#csf)
+4. [NCB Folder](#ncbf)
+5. [VSCode Folder:](#vscf)
 
 ---
 
 <br>
 
-#### ACB Folder:{#acbf}
+#### [ACB Folder:](#toc){#acbf}
 This folder contains the documentation for the American Computerized Bible Project.
 
 * [ACB.md](/ACB/ACB.md)
