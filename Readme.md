@@ -7,11 +7,13 @@ The Bible Code Project curently has three related projects under development wit
 ---
 
 ##### Active Projects:
+
 [1. American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
 [2. BibleDB Project](https://github.com/ACB-Bible/BibleDB)
 [3. New Christian Bible Project](https://github.com/ACB-Bible/NCB)
 
 ---
+
 #### Table of Contents:{#toc}
 
 [1. ACB Folder](#acbf)
