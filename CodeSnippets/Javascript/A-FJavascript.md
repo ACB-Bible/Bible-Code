@@ -1,8 +1,16 @@
-<h3 align="center">Declare a Javascript Function with Optional Arguments with Default Values</h3>
+<h3 align="center">A-F Javascript Functions</h3>
 
 ---
 
+##### Table of Contents:{#toc}
+
+[Declare Function with optional arguments](#dfwog)
+
+
+---
 Use This Code With Caution:
+
+[Declare Function with optional arguments](#toc){#dfwog}
 ```javascript
 function myFunction(param1 = 'default value 1',
 param2 = 'default value 2',

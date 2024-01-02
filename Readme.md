@@ -3,66 +3,67 @@
 ---
 There are curently three different related projects under development with source code and data that can be used to develop your own computerized Bible project.
 1. [ACB Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
+2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB)
 2. [NCB Project](https://github.com/ACB-Bible/NCB)
 3. [Project Documentation](https://github.com/ACB-Bible/BibleDB/tree/main/Documentation) - Documentation for all projects.
 ---
 <br>
 
 #### 1. BibleDB Folder:
-* ***Bible Trivia Folder:*** - A folder that contains Interesting facts about the bible.
-    1. [BibleVersesAboutJesus.md](BibleDB-docs/Bible-Trivia/BibleVersesAboutJesus.md) - A file that contains all the recorded quotes by Jesus contained in the "New Testament."
-    2. [InterestingQuranFacts.md](BibleDB-docs/Bible-Trivia/InterestingQuranFacts.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
-    3. [JesusQuotes.md](BibleDB-docs/Bible-Trivia/JesusQuotes.md) - A bunch of interesting facts about the Quran.
-    4. [MyFavoriteVerses.md](BibleDB-docs/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
-    5. [VersesJesusQuoted.md](BibleDB-docs/Bible-Trivia/VersesJesusQuoted.md) - A file of the many wonderous things God has shown me through my dreams, visions, and personal contact with angels.
+This folder contains the documentation for the BibleDB Project.
 
-<br>
+* ***Bible Trivia Folder:*** - This folder contains interesting trivia about the bible.
+    1. [BibleVersesAboutJesus.md](BibleDB/Bible-Trivia/BibleVersesAboutJesus.md) - A file that contains all the recorded quotes by Jesus contained in the "New Testament."
+    2. [InterestingQuranFacts.md](BibleDB/Bible-Trivia/InterestingQuranFacts.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
+    3. [JesusQuotes.md](BibleDB/Bible-Trivia/JesusQuotes.md) - A bunch of interesting facts about the Quran.
+    4. [MyFavoriteVerses.md](BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
+    5. [VersesJesusQuoted.md](BibleDB/Bible-Trivia/VersesJesusQuoted.md) - A file of the many wonderous things God has shown me through my dreams, visions, and personal contact with angels.
 
-* BibleBookLists.md - A plain text list of all books in most versions of the bible.
-* BibleJsonBookList.json - A Json format list of all books in most versions of the bible.
-* BibleVersionList.md - A plain text list of all the bible versions in the BibleDB Project.
-* TWF-ChaptersFinished.md - A list of all the books and chapters in the Twenty-First Century version of the bible that are in some stage of being actively translated, paraphrased, and edited.
+* [BibleBookLists.md](BibleDB/BibleBookLists.md) - A plain text list of all books in most versions of the bible.
+* [BibleVersionList.md](BibleDB/BibleVersionList.md) - A plain text list of all the bible versions in the BibleDB Project.
 
 ---
 
 <br>
 
 #### 2. CodeSnippets Folder:
+This folder contains various Javascript syntax examples.
 
 * ***CSS Folder:*** - 
 <br>
 * ***HTML Folder:*** - 
 <br>
 * ***Javascript Folder***        
-    1. FunctioWithOptionalArguments.md
-    Javascript syntax example of how to declare a function with optional arguments and default argument values.
+    1. [A-F: Javascript.md](/CodeSnippets/Javascript/A-FJavascript.md)
+        * A-F: Syntax examples for various Javascript functions arranged alphebetically.
 
 ---
 
 <br>
 
 #### 3. NCB Folder:
+This folder contains the documentation for the NCB "New Christian Bible" Project.
 
-* Cache.md - A file that lists the differences between all the browser cache storage types.
-* CloudflareCompression.md - How to setup and enable brotli and Gzip compression on Cloudflare.
-* EditQueryString.md - How to Edit the Querystring in the browser without causing the browser to reload the page.
-* FileIntegritySRIHash.md - How to create and use an Integrity SRI hash on Cloudflare.
-* Pako.md - How to use the pako.js file to Gzip compress and decompress a file with Javascript, Nodejs, and also in the browser.
-* XBrowserStorageDifferences.md - The differences between browser cache storage types, and Javascript examples of how to use them.
-* XServiceWorkerFetch.md - Javascript syntax to intercept a fetch() request and hand it over to a serviceWorker to run in the background.
-* XShareBrowserPage.md - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
+* [Cache.md](/NCB/Cache.md) - A file that lists the differences between all the browser cache storage types.
+* [CloudflareCompression.md](/NCB/CloudflareCompression.md) - How to setup and enable brotli and Gzip compression on Cloudflare.
+* [EditQueryString.md](/NCB/EditQueryString.md) - How to Edit the Querystring in the browser without causing the browser to reload the page.
+* [FileIntegritySRIHash.md](/NCB/FileIntegritySRIHash.md) - How to create and use an Integrity SRI hash on Cloudflare.
+* [Pako.md](/NCB/Pako.md) - How to use the pako.js file to Gzip compress and decompress a file with Javascript, Nodejs, and also in the browser.
+* [XBrowserStorageDifferences.md](/NCB/XBrowserStorageDifferences.md) - The differences between browser cache storage types, and Javascript examples of how to use them.
+* [XServiceWorkerFetch.md](/NCB/XServiceWorkerFetch.md) - Javascript syntax to intercept a fetch() request and hand it over to a serviceWorker to run in the background.
+* [XShareBrowserPage.md](/NCB/XShareBrowserPage.md) - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
 ---
 
 <br>
 
 #### 4. VSCode Folder:
+This folder contains the documentation of how to setup the VSCode environment for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
 
 * ***Certificates Folder:***
-    1. CreateSSL.md - An example of how to create an SSL certificate with the Windows Terminal.
+    1. [CreateSSL.md](/VSCode/Certificates/CreateSSL.md) - An example of how to create an SSL certificate with the Windows Terminal.
     2. localhost.pfx - An SSL certificate generated by the terminal.
-<br>
-* VS-Profile 12-5-23.code-profile - The profile for the VSCode environment.
-* SetupNodejsLocalHostAndLiveServer.md - A file with the directions to setup liveserver and Nodejs debugger environment in VSCode.
+
+* [SetupLocalHostNodejs.md](/VSCode/SetupLocalHostNodejs.md) - A file with the directions to setup liveserver and Nodejs debugger environment in VSCode.
 
 ---
 
