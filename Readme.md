@@ -26,7 +26,7 @@ The Bible Code Project curently has three related projects under development wit
 
 <br>
 
-#### [ACB Folder:](#toc){#acbf}
+[ACB Folder:](#toc) {#acbf}
 This folder contains the documentation for the American Computerized Bible Project.
 
 * [ACB.md](/ACB/ACB.md)
@@ -35,7 +35,7 @@ This folder contains the documentation for the American Computerized Bible Proje
 
 <br>
 
-#### [BibleDB Folder:](#toc){#bdbf}
+#### [BibleDB Folder:](#toc) {#bdbf}
 This folder contains the documentation for the BibleDB Project.
 
 * ***Bible Trivia Folder:*** - This folder contains interesting trivia about the bible.
