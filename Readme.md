@@ -5,7 +5,7 @@ There are curently three related projects under development with source code and
 1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
 2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB)
 2. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)
-3. [Project Documentation](https://github.com/ACB-Bible/BibleDB/tree/main/Documentation) - Documentation for all projects.
+3. [Project Documentation](https://github.com/ACB-Bible/DOC) - Documentation for all projects.
 ---
 <br>
 
