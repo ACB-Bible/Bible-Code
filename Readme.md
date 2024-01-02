@@ -1,10 +1,10 @@
 <h3 align="center">Documentation Table of Contents</h3>
 
 ---
-There are curently three different related projects under development with source code and data that can be used to develop your own computerized Bible project.
-1. [ACB Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
+There are curently three related projects under development with source code and data that can be used to develop your own computerized Bible project. The "American Computerized Bible" and the "New Christian Bible" projects both use Json files from the BibleDB project as their data source. The BibleDB project is a database project that stores various versions of the Bible in different machine readable file formats. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
 2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB)
-2. [NCB Project](https://github.com/ACB-Bible/NCB)
+2. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)
 3. [Project Documentation](https://github.com/ACB-Bible/BibleDB/tree/main/Documentation) - Documentation for all projects.
 ---
 <br>
