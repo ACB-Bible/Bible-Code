@@ -34,8 +34,8 @@ This folder contains the documentation for the American Computerized Bible Proje
 ---
 
 <br>
-
-#### [BibleDB Folder:](#toc) {#bdbf}
+<a href="#bdbf"></a>
+#### [BibleDB Folder:](#toc)
 This folder contains the documentation for the BibleDB Project.
 
 * ***Bible Trivia Folder:*** - This folder contains interesting trivia about the bible.
