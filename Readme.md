@@ -14,13 +14,13 @@ The Bible Code Project curently has three related projects under development wit
 
 ---
 
-#### Table of Contents:{#toc}
+#### Table of Contents
 
 1. [ACB Folder](#acb-folder)
-2. [BibleDB Folder](#bdbf)
-3. [CodeSnippets Folder](#csf)
-4. [NCB Folder](#ncbf)
-5. [VSCode Folder:](#vscf)
+2. [BibleDB Folder](#bibledb-folder)
+3. [CodeSnippets Folder](#codesnippets-folder)
+4. [NCB Folder](#ncb-folder)
+5. [VSCode Folder:](#vscode-folder)
 
 ---
 
@@ -34,9 +34,8 @@ This folder contains the documentation for the American Computerized Bible Proje
 ---
 
 <br>
-<a name="#bdbf"></a>
 
-#### [BibleDB Folder:](#toc)
+##### BibleDB Folder
 This folder contains the documentation for the BibleDB Project.
 
 * ***Bible Trivia Folder:*** - This folder contains interesting trivia about the bible.
@@ -53,7 +52,7 @@ This folder contains the documentation for the BibleDB Project.
 
 <br>
 
-#### [CodeSnippets Folder:](#toc){#csf}
+##### CodeSnippets Folder
 This folder contains various Javascript syntax examples.
 
 * ***CSS Folder:*** - 
@@ -68,7 +67,7 @@ This folder contains various Javascript syntax examples.
 
 <br>
 
-#### [NCB Folder:](#toc){#ncbf}
+##### NCB Folder
 This folder contains the documentation for the NCB "New Christian Bible" Project.
 
 * [Cache.md](/NCB/Cache.md) - A file that lists the differences between all the browser cache storage types.
@@ -83,7 +82,7 @@ This folder contains the documentation for the NCB "New Christian Bible" Project
 
 <br>
 
-#### [VSCode Folder:](#toc){#vscf}
+##### VSCode Folder
 This folder contains the documentation of how to setup the VSCode environment for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
 
 * ***Certificates Folder:***
