@@ -32,7 +32,7 @@
 
 ---
 
-##### Versions with matching number of verses:
+##### Versions with Matching Number of Verses:
 <!-- This Markdown Versions file is best viewed in a Markdown viewer or previewer -->
 | Abrv | Title| ID| Verse Count|
 | :--- | :--- | --:|---:|
@@ -45,7 +45,6 @@
 |   DRB|Douay-Rheims Bible| 15| 31102|
 |   ERV|English Revised Version| 24| 31102|
 |   GNV|Geneva Bible| 22| 31102|
-|   JPS|Jewish Publication Society's Tanakh 1917 OT| 26| 0|
 |   KJV|King James Version| 5| 31102|
 |   SLT|Smith's Literal Translation| 18| 31102|
 |   TWF|Twenty-First Century Bible| 1| 31102|
@@ -57,6 +56,7 @@
 | :--- | :-- | --:| ---:|
 |   CPD|Catholic Public Domain Version| 25| 34339|
 |   DBY|Darby English Bible| 4| 31099|
+|   JPS|Jewish Publication Society's Tanakh 1917 OT| 26| 18663|
 |   NWB|Noah Webster's Bible| 6| 31106|
 |   TYN|Tyndale Bible| 27| 13928|
 |   WEY|Weymouth New Testament| 27| 0|
