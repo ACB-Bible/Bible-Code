@@ -2,14 +2,14 @@
 <h3 align="center">VSCode Development Environment Setup</h3>
 
 ---
-There are two other projects that use the data files from the BibleDB project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+There are two projects that use the data files from the BibleDB project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
 
 ##### Links to the example projects:
 
-1. [The American Computerized Bible](https://github.com/ACB-Bible/AmericanComputerizedBible)
-
-3. []()
-2. [The New Christian Bible](https://github.com/ACB-Bible/NCB)
+1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - Source code for an online Bible.
+2. [BibleDB](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the Bible.
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)  - Source code for an online Bible.
+4. [Bible Code Project Documentation](https://github.com/ACB-Bible/DOC) - Complete documentation for all projects.
 
 ---
 
