@@ -8,9 +8,10 @@ The Bible Code Project curently has three related projects under development wit
 
 #### Active Projects:
 
-1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible)
-2. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)
+1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - Source code for an online Bible.
+2. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)  - Source code for an online Bible.
 3. [Bible Code Project Documentation](https://github.com/ACB-Bible/DOC) - Complete documentation for all projects.
+
 ---
 
 #### Table of Contents
@@ -70,6 +71,7 @@ This folder contains various syntax examples for CSS, HTML, Javascript functions
 
 <br>
 
+
 ##### NCB Folder
 This folder contains the documentation for the NCB "New Christian Bible" Project.
 
@@ -99,5 +101,5 @@ This folder contains the documentation of how to setup the VSCode environment fo
 
 <br>
 
-<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God!</h3>
+<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God ... 2023</h3>
 <h6 align="center">Good luck with your efforts!</h6>
