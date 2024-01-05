@@ -1,3 +1,4 @@
+<a id="top"></a>
 <h3 align="center">Bible Code Project</h3>
 
 ---
@@ -6,26 +7,34 @@ The Bible Code Project curently has three related projects under development wit
 
 ---
 
-#### Active Projects:
+#### Active Bible Code Projects:
 
-1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - CSS, HTML, Javascript source code, plus packages that are used for developing an online Bible.
-2. [BibleDB](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the Bible.
-3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)CSS, HTML, Javascript source code, plus packages that are used for developing a more advanced online Bible.
+These Bible Code GitHub repositorie are actively being developed.
+
+1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - CSS, HTML, Javascript source code that are used for developing an online Bible.
+
+2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the Bible.
+
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - CSS, HTML, Javascript source code, plus external packages that are used for developing a more advanced online Bible.
 
 ---
 
 #### Table of Contents
 
-1. [ACB Folder](#acb-folder)
-2. [BibleDB Folder](#bibledb-folder)
-3. [NCB Folder](#ncb-folder)
-4. [VSCode Folder:](#vscode-folder)
+1. [American Computerized Bible](#american-computerized-bible)
+
+2. [BibleDB Project](#bibledb-project)
+3. [New Computerized Bible Project](#new-computerized-bible)
+
+4. [VSCode Project](#vscode)
+
+[Back to Top](#top)
 
 ---
 
 <br>
 
-##### ACB Folder
+##### American Computerized Bible Project
 This folder contains the documentation for the "American Computerized Bible" Project.
 
 * [ACB](/ACB/ACB.md)
@@ -34,38 +43,47 @@ This folder contains the documentation for the "American Computerized Bible" Pro
 
 <br>
 
-##### BibleDB Folder
+##### BibleDB Project
 This folder contains the documentation for the "BibleDB" Project.
 
-* ***Bible Trivia Folder:*** - This folder contains interesting trivia about the bible.
-    1. [Bible Verses About Jesus](BibleDB/Bible-Trivia/BibleVersesAboutJesus.md) - A file that contains all the recorded quotes by Jesus contained in the "New Testament."
-    2. [Interesting Quran Facts](BibleDB/Bible-Trivia/InterestingQuranFacts.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
-    3. [JesusQuotes.md](BibleDB/Bible-Trivia/JesusQuotes.md) - A bunch of interesting facts about the Quran.
-    4. [MyFavoriteVerses.md](BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
-    5. [VersesJesusQuoted.md](BibleDB/Bible-Trivia/VersesJesusQuoted.md) - A file of the many wonderous things God has shown me through my dreams, visions, and personal contact with angels.
+* [1. Bible Book Lists](BibleDB/BibleBookLists.md) - List of all the books in the versions of the Bible that are part of the BibleDB project.
 
-* [BibleBookLists.md](BibleDB/BibleBookLists.md) - A plain text list of all books in most versions of the bible.
-* [BibleVersionList.md](BibleDB/BibleVersionList.md) - A plain text list of all the bible versions in the BibleDB Project.
+* [2. Bible Versions List](BibleDB/BibleVersionList.md) - List of all the bible versions in the BibleDB Project.
+<br>
+
+* <a style="color: crimson;">3. Bible Trivia</a>
+
+    * a. [Bible Verses About Jesus](BibleDB/Bible-Trivia/BibleVersesAboutJesus.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
+        
+    * b. [Interesting Facts About the Quran](BibleDB/Bible-Trivia/InterestingQuranFacts.md) - A bunch of interesting facts about the Quran.
+
+    * c. [Quotes of Jesus](BibleDB/Bible-Trivia/JesusQuotes.md) - A List of all the quotes by Jesus recorded in the "New Testament."
+
+    * d. [My Favorite Bible Verses](BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
 
 ---
 
 <br>
 
-* ***CSS Folder:*** - 
-<br>
-* ***HTML Folder:*** - 
-<br>
-* ***Javascript Folder***        
-    1. [A-F: Javascript.md](/CodeSnippets/Javascript/A-FJavascript.md)
-        * A-F: Syntax examples for various Javascript functions arranged alphebetically.
+##### New Computerized Bible Project
 
----
-
-<br>
-
-
-##### NCB Folder
 This folder contains the documentation for the NCB "New Christian Bible" Project.
+
+---
+
+<br>
+
+##### VSCode Development Environment Setup
+
+This folder contains the documentation of how to setup the VSCode environment and LiveServer for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
+
+1. [VSCode Setup](/VSCode/VSCodeSetup.md) - Directions to setup liveserver, Nodejs. and the debugger environment in VSCode.
+
+---
+
+<br>
+
+##### Miscellaneous
 
 * [Cache](/NCB/Cache.md) - A file that lists the differences between all the browser cache storage types.
 * [Edit Query String](/NCB/EditQueryString.md) - How to Edit the Querystring in the browser without causing the browser to reload the page.
@@ -76,20 +94,9 @@ This folder contains the documentation for the NCB "New Christian Bible" Project
 * [XShare Browser Page](/NCB/XShareBrowserPage.md) - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
 ---
 
-<br>
-
-##### VSCode Folder
-This folder contains the documentation of how to setup the VSCode environment and LiveServer for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
-
-1. [VSCode Setup](/VSCode/VSCodeSetup.md) - Directions to setup liveserver, Nodejs. and the debugger environment in VSCode.
-2. VS-Profile.code-profile - A VSCode profile that can be imported into VSCode. This profile contains the settings and extensions that I find most helpful. 
-
-* ***Certificates Folder:***
-    * localhost.pfx - An SSL certificate generated by the Windows Terminal.    
-
----
+[Back to Top](#top)
 
 <br>
 
-<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God ... 2023</h3>
+<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God</h3>
 <h6 align="center">Good luck with your efforts!</h6>

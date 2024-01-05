@@ -1,4 +1,4 @@
-<h3 align="center">Interesting Quran Facts</h3>
+<h3 align="center">Interesting Facts About the Quran</h3>
 
 These are some curious and interesting facts about the Muslim Quran, and how it compares to the Bible.
 
