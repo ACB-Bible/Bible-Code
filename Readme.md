@@ -17,9 +17,8 @@ The "Bible Code" GitHub repositories that are actively being developed.
 
 3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - The "New Christian Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible.
 
-The operational webpages can be viewed here.
+Operational webpages can be viewed here:
 1.  [ACB Webpage](https://acbible.com)
-2.  [NCB Webpage](https://acbible.com)
 
 [Back to Top](#top)
 
@@ -75,7 +74,7 @@ This folder contains the documentation for the "BibleDB" Project.
 
 ##### New Computerized Bible
 
-This folder contains the documentation for the NCB "New Christian Bible" Project.
+The "New Christian Bible" project documentation.
 
 [Back to Top](#top)
 
@@ -85,7 +84,7 @@ This folder contains the documentation for the NCB "New Christian Bible" Project
 
 ##### VSCode Development Environment Setup
 
-This folder contains the documentation of how to setup the VSCode environment and LiveServer for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
+Documentation for setting up the VSCode environment and LiveServer for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
 
 1. [VSCode Setup](/VSCode/VSCodeSetup.md) - Directions to setup liveserver, Nodejs. and the debugger environment in VSCode.
 
@@ -96,6 +95,8 @@ This folder contains the documentation of how to setup the VSCode environment an
 <br>
 
 ##### Miscellaneous
+
+Miscellaneous examples of functions and methods that can be used in the "Bible Code" projects.
 
 * [Cache](/NCB/Cache.md) - A file that lists the differences between all the browser cache storage types.
 * [Edit Query String](/NCB/EditQueryString.md) - How to Edit the Querystring in the browser without causing the browser to reload the page.
