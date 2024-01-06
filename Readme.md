@@ -3,30 +3,34 @@
 
 ---
 
-The Bible Code Project curently has three related projects under development with source code and data that can be used to develop your own computerized Bible project. The "American Computerized Bible" and the "New Christian Bible" projects both use Json files from the "BibleDB" project as their data source. The "BibleDB" project is a database project that stores various versions of the Bible in different machine readable file formats. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+The "Bible Code" Project is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized Bible project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
 
 ---
 
-#### Active Bible Code Projects:
+#### Active Bible Code Repositories
 
-These Bible Code GitHub repositorie are actively being developed.
+The "Bible Code" GitHub repositories that are actively being developed.
 
-1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - CSS, HTML, Javascript source code that are used for developing an online Bible.
+1. [American Computerized Bible](https://github.com/ACB-Bible/AmericanComputerizedBible) - The "American Computerized Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible.
 
-2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the Bible.
+2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB) - The "BibleDB" project contains the master SQLite3 database and other data files for multiple versions of the Bible.
 
-3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - CSS, HTML, Javascript source code, plus external packages that are used for developing a more advanced online Bible.
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - The "New Christian Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible.
+
+The operational webpages can be viewed here.
+1.  [ACB Webpage](https://acbible.com)
+2.  [NCB Webpage](https://acbible.com)
+
+[Back to Top](#top)
 
 ---
 
 #### Table of Contents
 
 1. [American Computerized Bible](#american-computerized-bible)
-
-2. [BibleDB Project](#bibledb-project)
-3. [New Computerized Bible Project](#new-computerized-bible)
-
-4. [VSCode Project](#vscode)
+2. [BibleDB](#bibledb)
+3. [New Computerized Bible](#new-computerized-bible)
+4. [VSCode Development Environment Setup](#vscode-development-environment-setup)
 
 [Back to Top](#top)
 
@@ -34,16 +38,18 @@ These Bible Code GitHub repositorie are actively being developed.
 
 <br>
 
-##### American Computerized Bible Project
+##### American Computerized Bible
 This folder contains the documentation for the "American Computerized Bible" Project.
 
 * [ACB](/ACB/ACB.md)
+
+[Back to Top](#top)
 
 ---
 
 <br>
 
-##### BibleDB Project
+##### BibleDB
 This folder contains the documentation for the "BibleDB" Project.
 
 * [1. Bible Book Lists](BibleDB/BibleBookLists.md) - List of all the books in the versions of the Bible that are part of the BibleDB project.
@@ -61,13 +67,17 @@ This folder contains the documentation for the "BibleDB" Project.
 
     * d. [My Favorite Bible Verses](BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
 
+[Back to Top](#top)
+
 ---
 
 <br>
 
-##### New Computerized Bible Project
+##### New Computerized Bible
 
 This folder contains the documentation for the NCB "New Christian Bible" Project.
+
+[Back to Top](#top)
 
 ---
 
@@ -78,6 +88,8 @@ This folder contains the documentation for the NCB "New Christian Bible" Project
 This folder contains the documentation of how to setup the VSCode environment and LiveServer for editing the "American Computerized Bible," "BibleDB," and the "New Christian Bible" projects.
 
 1. [VSCode Setup](/VSCode/VSCodeSetup.md) - Directions to setup liveserver, Nodejs. and the debugger environment in VSCode.
+
+[Back to Top](#top)
 
 ---
 
@@ -92,9 +104,12 @@ This folder contains the documentation of how to setup the VSCode environment an
 * [XBrowser Cache Storage Differences](/NCB/XBrowserStorageDifferences.md) - The differences between browser cache storage types, and Javascript examples of how to use them.
 * [XServiceWorker Fetch](/NCB/XServiceWorkerFetch.md) - Javascript syntax to intercept a fetch() request and hand it over to a serviceWorker to run in the background.
 * [XShare Browser Page](/NCB/XShareBrowserPage.md) - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
----
 
 [Back to Top](#top)
+
+---
+
+
 
 <br>
 
