@@ -58,13 +58,15 @@ This folder contains the documentation for the "BibleDB" Project.
 
 * <a style="color: crimson;">3. Bible Trivia</a>
 
-    * a. [Bible Verses About Jesus](BibleDB/Bible-Trivia/BibleVersesAboutJesus.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
+    * a. [Bible Verses About Jesus](/BibleDB/Bible-Trivia/BibleVersesAboutJesus.md) - A list of "New Testament" verses where Jesus is mentioned in the bible.
         
-    * b. [Interesting Facts About the Quran](BibleDB/Bible-Trivia/InterestingQuranFacts.md) - A bunch of interesting facts about the Quran.
+    * b. [Excellent Videos About Jesus](/BibleDB/Bible-Trivia/ExcellentVideo.md) - A list of inspiring movies and shows about Jesus.
 
-    * c. [Quotes of Jesus](BibleDB/Bible-Trivia/JesusQuotes.md) - A List of all the quotes by Jesus recorded in the "New Testament."
+    * c. [Interesting Facts About the Quran](BibleDB/Bible-Trivia/InterestingQuranFacts.md) - A bunch of interesting facts about the Quran.
 
-    * d. [My Favorite Bible Verses](BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
+    * d. [Quotes of Jesus](/BibleDB/Bible-Trivia/JesusQuotes.md) - A List of all the quotes by Jesus recorded in the "New Testament."
+
+    * e. [My Favorite Bible Verses](/BibleDB/Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
 
 [Back to Top](#top)
 
@@ -109,8 +111,6 @@ Miscellaneous examples of functions and methods that can be used in the "Bible C
 [Back to Top](#top)
 
 ---
-
-
 
 <br>
 

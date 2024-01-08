@@ -1,3 +1,4 @@
+<a id="top"></a>
 <h3 align="center">Bible Versions in the BibleDB Project</h3>
 
 ---
@@ -61,6 +62,8 @@
 |   TYN|Tyndale Bible| 27| 13928|
 |   WEY|Weymouth New Testament| 27| 0|
 |   YLT|Young's Literal Translation| 8| 31103|
+
+[Back to Top](#top)
 
 ---
 
