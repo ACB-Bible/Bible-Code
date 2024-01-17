@@ -17,8 +17,10 @@ The "Bible Code" GitHub repositories that are actively being developed.
 
 3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - The "New Christian Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible.
 
-Operational webpages can be viewed here:
-1.  [ACB Webpage](https://acbible.com)
+4. [Twenty-First Century Bible Project](https://github.com/ACB-Bible/TWF) - The "Twenty-First Century Bible" is a Bible translation project to create a new paraphrased Bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
+
+Operational web sites can be viewed here:
+1.  [American Computerized Bible](https://acbible.com)
 
 [Back to Top](#top)
 
@@ -29,7 +31,8 @@ Operational webpages can be viewed here:
 1. [American Computerized Bible](#american-computerized-bible)
 2. [BibleDB](#bibledb)
 3. [New Computerized Bible](#new-computerized-bible)
-4. [VSCode Development Environment Setup](#vscode-development-environment-setup)
+4. [Twenty-First Century Bible](#twenty-first-century-bible)
+5. [VSCode Development Environment Setup](#vscode-development-environment-setup)
 
 [Back to Top](#top)
 
@@ -77,6 +80,16 @@ This folder contains the documentation for the "BibleDB" Project.
 ##### New Computerized Bible
 
 The "New Christian Bible" project documentation.
+
+[Back to Top](#top)
+
+---
+
+<br>
+
+##### Twenty-First Century Bible
+
+The "Twenty-First Century Bible" is a Bible translation project to create a new paraphrased Bible in modern twenty first century English. The original text comes from various ancient biblical texts, including the "King James Version" of the Bible. This project consists of an SQLite3 database, and Much of it's being completed with the help of God's AI (Artificial Intelligence).
 
 [Back to Top](#top)
 
