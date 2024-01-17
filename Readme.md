@@ -36,12 +36,15 @@ Operational web sites can be viewed here:
 
 [Back to Top](#top)
 
----
+<hr>
+<br>
+
+<h4 align="center">Technical Documentation for All Projects</h4>
 
 <br>
 
 ##### American Computerized Bible
-This folder contains the documentation for the "American Computerized Bible" Project.
+This "American Computerized Bible" Project repository contains all the source code and data files for a complete website. This is the documentation for the Javascript functions, methods and how to setup the development environment for this project.
 
 * [ACB](/ACB/ACB.md)
 
