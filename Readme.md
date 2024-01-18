@@ -11,13 +11,13 @@ The "Bible Code Project" is a collection of GitHub repositories containing sourc
 
 The "Bible Code" GitHub repositories that are actively being developed.
 
-1. [American Computerized Bible](https://github.com/ACB-Bible/AmericanComputerizedBible) - The "American Computerized Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible or website.
+1. [American Computerized Bible](https://github.com/ACB-Bible/AmericanComputerizedBible) - The "American Computerized Bible" is a website project with complete CSS, HTML, Javascript, and Json file  examples that use data from the "BibleDB" project for developing an online Bible or website.
 
 2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB) - The "BibleDB" project is the master SQLite3 database and other data file types with the complete verses for multiple public domain versions of the Bible.
 
-3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - The "New Christian Bible" is a project with complete CSS, HTML, Javascript source code, and Json file  examples that use data from the "BibleDB" project for developing an online Bible or website.
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB) - The "New Christian Bible" is a website project with complete CSS, HTML, Javascript, and Json file  examples that use data from the "BibleDB" project for developing an online Bible or website. The "New Christian Bible" project is a more advanced and complex than th "American Computerized Bible".
 
-4. [Twenty-First Century Bible Project](https://github.com/ACB-Bible/TWF) - The "Twenty-First Century Bible" is a Bible translation project to create a new paraphrased Bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
+4. [Twenty-First Century Bible Project](https://github.com/ACB-Bible/TWF) - The "Twenty-First Century Bible" is a Bible translation project. This project endeavors to create a new paraphrased Bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
 
 Operational web sites can be viewed here:
 1.  [American Computerized Bible](https://acbible.com)
