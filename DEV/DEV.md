@@ -1,5 +1,5 @@
 <a id="top"></a>
-<h3 align="center">VSCode Development Environment Setup</h3>
+<h3 align="center">Development Environment Setup</h3>
 
 ---
 There are two projects that use the data files from the "BibleDB" project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
@@ -16,7 +16,7 @@ There are two projects that use the data files from the "BibleDB" project. All t
 <br>
 
 ##### Table of Contents
-1. [Downloads for Bible Code Development Envirnment](#downloads-for-bible-code-development-envirnment)
+1. [Downloads for Bible Code Development Environment](#downloads-for-bible-code-development-envirnment)
 2. [Setup the LiveServer Debugger](#setup-the-liveserver-debugger)
 3. [Create and Install the localhost SSL Certificate](#create-and-install-the-localhost-ssl-certificate)
 4. [Miscellaneous](#miscellaneous)
@@ -119,9 +119,7 @@ npm install SQLite3
 
 ##### Miscellaneous
 
-1. An example of a pre-generated SSL pfx certificate for the localhost created by the Windows Terminal located in the VSCode folder in the Bible-Code Documentation project.
-
-2. VS-Profile.code-profile - A VSCode profile that can be imported into VSCode. This profile contains the settings and extensions that I find most helpful working on all the Bible Code projects located in the VSCode folder in the Bible-Code Documentation project.
+The VS-Profile.code-profile - A VSCode profile is located in the VSCode folder and it can be imported into VSCode. This profile contains the settings and extensions that I find most helpful working on all the Bible Code projects located in the VSCode folder in the Bible-Code Documentation project.
 
 [Back to Top](#top)
 
