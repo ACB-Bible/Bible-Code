@@ -26,7 +26,7 @@ This is the technical documentation for the "New Christian Bible" Project. The G
 
 [The Bible Code Project for Developers](https://github.com/ACB-Bible/Bible-Code/)
 
-This is the technical documentation for the "Bible Code Project", which is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized Bible project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project.<br><br>
+This is the technical documentation for the "Bible Code Project", which is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized bible project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or bible project.<br><br>
 
 <a class="atc" onclick="scrollPage('top')">Back to Top</a>
 
