@@ -125,6 +125,19 @@ The VS-Profile.code-profile - A VSCode profile is located in the VSCode folder a
 ---
 
 <br>
+   
+#### The Bible Code Project
 
-<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God</h3>
-<h6 align="center">Good luck with your efforts!</h6>
+[Bible Code Project Documentation for Developers](https://github.com/ACB-Bible/Bible-Code/)
+The "Bible Code Project" is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized Bible project. All of the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use. The technical documentation for all of these projects is available in the Bible Code Project GitHub repository. If you to use any of the source code or data files in your own ministry or Bible project, please change the name of it, so people don't get confused.
+
+[Back to Top](#top)
+
+---
+
+<br><br>
+<p align="center">
+    <p align="center">
+    <em>God loves you, Jesus loves you, I love you, and this is God's free gift to you .....</em>
+</p>    
+</p>
