@@ -1,25 +1,21 @@
 <a id="top"></a>
 <h3 align="center">Bible Code Project</h3>
 
+The Bible Code Project is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized bible project. Github repositories are a cloud storage platform for developers to store their code and data files. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+
+[American Computerized Bible Website](https://acbible.com) - The live operational website for the American Computerized Bible.
+[New Christian Bible Website](https://acb-bible.github.io/NCB/) - The live operational website for the New Christian Bible.
+
 ---
 
-The "Bible Code Project" is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized bible project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+#### Active Bible Code Development Repositories
 
-The live operational website for the American Computerized Bible Project.
+The Bible Code Project is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized bible project. The individual components of the Bible Code Project are located in these GitHub repositories. The following projects are currently being actively developed.
 
----
-
-#### Active Bible Code Repositories
-
-These Bible Code Project GitHub repositories are under development.
-
-1. [American Computerized Bible](https://github.com/ACB-Bible/AmericanComputerizedBible/) - The American Computerized Bible is a website project with complete CSS, HTML, Javascript, and Json file  examples that use data from the BibleDB project for developing an online Bible or website.
-
-2. [BibleDB Project](https://github.com/ACB-Bible/BibleDB/) - The BibleDB project is the master SQLite3 database and other data file types with the complete verses for multiple public domain versions of the bible.
-
-3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB/) - The New Christian Bible is a website project with complete CSS, HTML, Javascript, and Json file  examples that use data from the BibleDB project for developing an online bible or website. The "New Christian Bible" project is a more advanced and complex than th American Computerized Bible.
-
-4. [Twenty-First Century Bible Project](https://github.com/ACB-Bible/TWF/) - The Twenty-First Century Bible is a bible translation project. This project endeavors to create a new paraphrased bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
+1. [American Computerized Bible](https://github.com/ACB-Bible/Bible-Code/blob/main/ACB/ACB.md/) - The technical documentation for the American Computerized Bible website project's complete CSS, HTML, Javascript, and Json file source code and examples for developers is located in this Github repository.
+2. [BibleDB](https://github.com/ACB-Bible/BibleDB/) - The technical documentation for the BibleDB project contains the master SQLite3 database and other data files for multiple versions of the bible in this Github repository.
+3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB/) - The technical documentation for the New Christian Bible website project's complete CSS, HTML, Javascript, and Json file source code and examples for developers is located in this Github repository.
+4. [Twenty-First Century Version Project](https://github.com/ACB-Bible/TWF/) - The Twenty-First Century Version is a bible translation project. This project endeavors to create a new paraphrased bible in modern twenty first century English with the help of God's AI (Artificial Intelligence). The technical documentation for this project is located in this Github repository.
 
 [Back to Top](#top)
 
@@ -37,7 +33,12 @@ These Bible Code Project GitHub repositories are under development.
 
 [Back to Top](#top)
 
-<br>
 
-<h6 align="center" title="God's Word Is Not For Sale">Bible Code Project - Copyright © Free - Inspired by God</h3>
-<h6 align="center">Good luck with your efforts!</h6>
+---
+
+<br><br>
+<p align="center">
+    <p align="center">
+    <em>God loves you, Jesus loves you, I love you, and this is God's free gift to you .....</em>
+</p>    
+</p>
