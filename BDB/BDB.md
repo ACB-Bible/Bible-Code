@@ -8,11 +8,13 @@ This is the technical documentation for the BibleDB Project. The BibleDB Project
 ---
 #### Table of Contents
 
-1. [Bible Book Lists](BibleBookLists.md) - List of all the books in the versions of the Bible that are part of the BibleDB project.
+1. [BibleDB Book Lists](BibleBookLists.md) - List of all the books in the versions of the Bible that are part of the BibleDB project.
 <br>
 2. [BibleDB Project Environment Setup](#bibledb-project-environment-setup) - Tools to download and install for editing SQLite3 databases.
 <br>
-2. [Bible Versions List](BibleVersionList.md) - List of all the bible versions in the BibleDB Project.
+3. [BibleDB Versions List](BibleVersionList.md) - List of all the bible versions in the BibleDB Project.
+<br>
+4. [BibleDB Data Cleaning Process](BibleDataCleaning.md) - List of all the bible versions in the BibleDB Project.
 <br>
 
 3. Bible Trivia:
