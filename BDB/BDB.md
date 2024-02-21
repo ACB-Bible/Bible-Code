@@ -10,20 +10,20 @@ This is the technical documentation for the BibleDB Project. The BibleDB Project
 
 1. [BibleDB Book Lists](BibleBookLists.md) - List of all the books in the versions of the Bible that are part of the BibleDB project.
 <br>
-2. [BibleDB Project Environment Setup](#bibledb-project-environment-setup) - Tools to download and install for editing SQLite3 databases.
+2. [BibleDB Project Environment Setup](#Bibledb-project-environment-setup) - Tools to download and install for editing SQLite3 databases.
 <br>
-3. [BibleDB Versions List](BibleVersionList.md) - List of all the bible versions in the BibleDB Project.
+3. [BibleDB Versions List](BibleVersionList.md) - List of all the Bible versions in the BibleDB Project.
 <br>
-4. [BibleDB Data Cleaning Process](BibleDataCleaning.md) - List of all the bible versions in the BibleDB Project.
+4. [BibleDB Data Cleaning Process](BibleDataCleaning.md) - List of all the Bible versions in the BibleDB Project.
 <br>
 
 3. Bible Trivia:
 
-    * a. [Bible Verses About Jesus](Bible-Trivia/BibleVersesAboutJesus.md) - A list of "New Testament" verses that mention Jesus is in the bible.            
+    * a. [Bible Verses About Jesus](Bible-Trivia/BibleVersesAboutJesus.md) - A list of "New Testament" verses that mention Jesus is in the Bible.            
     b. [Bible Verses Jesus Quoted](Bible-trivia/VersesJesusQuoted.md) - A list of "Old Testament" verses that Jesus quoted in his teachings.
     c. [Bible Verses with Everything Jesus Said](Bible-Trivia/JesusQuotes.md) - A list of every quote that's recorded in the "New Testament" of everything Jesus said in his teachings.
     d. [Interesting Facts About the Quran](Bible-Trivia/InterestingQuranFacts.md) - A bunch of interesting facts about the Quran.
-    e. [My Favorite Bible Verses](Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite bible verses.
+    e. [My Favorite Bible Verses](Bible-Trivia/MyFavoriteVerses.md) - A growing list of my favorite Bible verses.
 
 [Back to Top](#top)
 

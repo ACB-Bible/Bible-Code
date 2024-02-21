@@ -1,9 +1,9 @@
 <a id="top"></a>
 <h3 align="center">Twenty-First Century Version</h3>
 
-The Twenty-First Century Version of the bible is part of the Bible Code Project. It's a new version of the bible that's being translated and paraphrased from many different ancient scriptures including the King James Version. It's being rewritten by humans, with the help of AI or Artificial Intelligence. There are many books and chapters in need of translating.  The verses from the TWF.db database will be imported into the BibleDB.db file in the BibleDB Project which is another part of the Bible Code Project.
+The Twenty-First Century Version of the Bible is part of the Bible Code Project. It's a new version of the Bible that's being translated and paraphrased from many different ancient scriptures including the King James Version. It's being rewritten by humans, with the help of AI or Artificial Intelligence. There are many books and chapters in need of translating.  The verses from the TWF.db database will be imported into the BibleDB.db file in the BibleDB Project which is another part of the Bible Code Project.
 
-[Twenty-First Century Bible Project Repository](https://github.com/ACB-Bible/TWF/) - The Twenty-First Century Bible is a bible translation project. This project endeavors to create a new paraphrased bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
+[Twenty-First Century Bible Project Repository](https://github.com/ACB-Bible/TWF/) - The Twenty-First Century Bible is a Bible translation project. This project endeavors to create a new paraphrased Bible in modern twenty first century English with the help of God's AI (Artificial Intelligence).
 
 ---
 

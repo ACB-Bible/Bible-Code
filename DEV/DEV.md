@@ -2,12 +2,12 @@
 <h3 align="center">Development Environment Setup</h3>
 
 ---
-There are two projects that use the data files from the BibleDB project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
+There are two projects that use the data files from the BibleDB project. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
 
 ##### Bible Code Project Links:
 
 1. [American Computerized Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - Source code for the American Computerized Bible project website.
-2. [BibleDB](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the bible, which is the foundation of the Bible Code Project.
+2. [BibleDB](https://github.com/ACB-Bible/BibleDB) - The master SQLite3 database and other data files for multiple versions of the Bible, which is the foundation of the Bible Code Project.
 3. [New Christian Bible Project](https://github.com/ACB-Bible/NCB)  - Source code for the New Christian Bible project website.
 4. [Bible Code Project Documentation](https://github.com/ACB-Bible/DOC) - Complete documentation for all Bible Code Project development projects.
 5. [Twenty-First Century Version Project](https://github.com/ACB-Bible/TWF)  - SQLite3 database for the Twenty-First Century Version translation project. The Twenty-First Century Version database is edited seperately from the master BibleDB SQLite3 database. It's imported later into the master BibleDB SQLite3 database.
@@ -17,7 +17,7 @@ There are two projects that use the data files from the BibleDB project. All the
 <br>
 
 ##### Table of Contents
-1. [Downloads for Bible Code Development Environment](#downloads-for-bible-code-development-envirnment)
+1. [Downloads for Bible Code Development Environment](#downloads-for-Bible-code-development-envirnment)
 2. [Setup the LiveServer Debugger](#setup-the-liveserver-debugger)
 3. [Create and Install the localhost SSL Certificate](#create-and-install-the-localhost-ssl-certificate)
 4. [Miscellaneous](#miscellaneous)

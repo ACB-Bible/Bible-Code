@@ -1904,7 +1904,7 @@
 
 ---
 
-These different bible book lists are provided to help you with your own computerized bible project.
+These different Bible book lists are provided to help you with your own computerized Bible project.
 
 ---
 <br>
