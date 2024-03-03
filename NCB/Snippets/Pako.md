@@ -12,7 +12,7 @@ Website: https://www.npmjs.com/package/install
 ```javascript
 const pako = require('pako');
 
-zipJson('path to file to compress or zip);
+zipJson('path to file to compress or zip');
 async function zipJson(path) {
 
     var file = fs.readFileSync(`${path}Verses.json`, 'utf8');
