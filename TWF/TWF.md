@@ -16,18 +16,37 @@ The Twenty-First Century Version of the Bible is part of the Bible Code Project.
 
 #### Edited Books and Chapters:
 
-The books and chapters in the tables below have been partially edited. Google "Bard" and Microsoft "Bing Copilot" AI engines are being used to help with the translation. The original verses in the TWF.db file came from the "King James Version". They've already been substantially edited by computer algorythms, but they need extensive human re-editing. 
+The books and chapters in the tables below have been partially edited. Google's "Bard" and/or Microsoft's "Bing Copilot" AI engines are being used to help with the translation. The original verses in the TWF.db file came from the "King James Version". They've already been substantially edited by computer algorythms, but they need extensive human re-editing, espeially grammar, punctuation, and spelling. 
 
 ##### Old Testament  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   New Testament
 
-|Book|Chapters| |Book|Chapters|
-| --- | --- | ---  | --- | --- |
-|Genesis|Rough Draft|    |Matthew|5:1|
-|Exodus|Rough Draft|    |Mark|4:15|
-|Leviticu|Rough Draft|  |Revelation|6:1|
-|Numbers|2:5|
+|ID   |Book     |Chapters   |     |ID   |Book |Chapters|
+| --- | ---     | ---       | --- | --- | --- | ---    |
+|1    |Genesis  |Rough Draft|     |40   |Matthew|16:12 |
+|2    |Exodus   |Rough Draft|     |41   |Mark|4:15     |
+|3    |Leviticus|Rough Draft|     |66   |Revelation|6:1|
+|4    |Numbers  |2:5|
+
 | | | | | |
 
+---
+
+##### Jesus Quotes and Special Characters
+JesusQuotes:
+The JesusQuotes field contains the values of either 0 or 1. If it contains a 0, that means that there are no words in the verse spoken by Jesus. If it contains a 1, it means that the verse contains words spoken by Jesus.
+
+Special Characters:
+These special characters are used by the algorythms in the "American Computerized Bible" and the "New Christian Bible" to indicate words spoken by Jesus.
+
+1. Double Quotes Character: ``` " ```
+    The Double Quote character is used in conjunction with the other special characters. It is placed before the Acute Grave character to indicate in the displayed text that a quotation by Jesus has begun. It is also placed after the Acute Accent character to indicate the end of the words spoken by Jesus. The Double Quotes  character is used throughout the text to indicate normal quotations, and it is rendered in the final display text. The Acute Grave and the Acute Accent characters are not rendered in the final display text. 
+2. Single Quotation Character: ``` ' ```
+    The Single Quotation character is used within all quotations where the first person is is quoting another person. It is also rendered in the final display text.
+3. Acute Grave Character: ``` ` ```
+   The Acute Grave character is used by the above programs to indicate a quote from Jesus. It goes at the beginning of each verse to indicate to the software that these are words that were sopken by Jesus in order to activate the red letter text for the words spoken by Jesus, and it is not meant to appear in the final display text.
+4. Acute Accent Character: ``` ´ ```
+    The Acute Accent character is used by the software to indicate the end of the words spoken by Jesus, and it is not meant to appear in the final display text.
+    
 [Back to Top](#top)
 
 ---

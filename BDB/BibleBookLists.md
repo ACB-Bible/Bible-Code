@@ -189,7 +189,7 @@
 
 ##### Json Format List of Public Domain Version Books:
 
-###### File Legend to Map the SQLite3 BibleDB.db ABibleBooks Table Field Names to Json File Key Names:
+###### Map to the SQLite3 BibleDB.db ABibleBooks Table Field Names to Json File Key Names:
 
 |Field Name|Json Key|Value|
 | --- | --- | --- |
