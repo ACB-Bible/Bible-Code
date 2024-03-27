@@ -1,23 +1,27 @@
 <h3 align="center">New Christian Bible</h3>
 
-This is the technical documentation for the "New Christian Bible" Project. The GitHub repository contains all the source code and data files for a complete website.
+This is the technical documentation for the "New Christian Bible" project. "NCB" is the abreviation for the "New Christian Bible" project, and will be used to reference this project throughout the documentation. The NCB project is a SPA(Single Page Application), that is evolving into a PWA(Progressive WEB Application). The NCB GitHub repository contains all the source code and data files for the complete website.
 
 [New Christian Bible Project](https://github.com/ACB-Bible/AmericanComputerizedBible) - The GitHub repository for this project is located here.
 
 ---
 
-##### Table of Contents
+#### Table of Contents
 
-1. Snippets:
-    * a. [Cache](/NCB/Snippets/Cache.md) - A file that lists the differences between all the browser cache storage types.
-    b. [Cloudflare Compression Syntax](/NCB/Snippets/CloudflareCompression.md) - A file that lists the differences between all the browser cache storage types.
-    c. [Edit Query String](/NCB/Snippets/EditQueryString.md) - How to Edit the Querystring in the browser without causing the browser to reload the page.
-    d. [File Integrity SRI Hash](/NCB/Snippets/FileIntegritySRIHash.md) - How to create and use an Integrity SRI hash on Cloudflare.
-    e. [Pako](/NCB/Snippets/Pako.md) - How to use the pako.js functions to Gzip compress and decompress a file with Javascript, Nodejs, and also in the browser.
-    f. [XBrowser Cache Storage Differences](/NCB/Snippets/XBrowserStorageDifferences.md) - The differences between browser cache storage types, and Javascript examples of how to use them.
-    g. [XServiceWorker Fetch](/NCB/Snippets/XServiceWorkerFetch.md) - Javascript syntax to intercept a fetch() request and hand it over to a serviceWorker to run in the background.
-    h. [XShare Browser Page](/NCB/Snippets/XShareBrowserPage.md) - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
+###### Snippets:
+Some odd and end code snippets that that helps
 
+A. [Cache](/NCB/Snippets/Cache.md) - A list of the differences between all the browser cache storage types.
+B. [Cloudflare Compression Syntax](/NCB/Snippets/CloudflareCompression.md) - A list of the different Cloudflare compression types, and how to enable them.
+C. [Edit Query String](/NCB/Snippets/EditQueryString.md) - How to Edit the Querystring in the browser without causing the browser to reload the page.
+D. [File Integrity SRI Hash](/NCB/Snippets/FileIntegritySRIHash.md) - How to create and use an Integrity SRI hash on Cloudflare.
+E. [Pako](/NCB/Snippets/Pako.md) - How to use the pako.js functions to Gzip compress and decompress a file with Javascript. It works with Nodejs, and also the browser.
+F. [XBrowser Cache Storage Differences](/NCB/Snippets/XBrowserStorageDifferences.md) - The differences between browser cache storage types, and Javascript examples of how to use them.
+G. [XServiceWorker Fetch](/NCB/Snippets/XServiceWorkerFetch.md) - Javascript syntax to intercept a fetch() request and hand it over to a serviceWorker to run in the background.
+H. [XShare Browser Page](/NCB/Snippets/XShareBrowserPage.md) - How to share a webpage from the browser, if the browser supports the navigator.share() function, it can be used to bring up a menu screen to pick an app to share a link.
+
+2. Javascript:
+    * A. index.js: The index.js file is the main Javascript file for the application. It is loaded when the primary webpage"index.html" page loads.
 ---
 
 <br>

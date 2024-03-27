@@ -1,6 +1,8 @@
 <a id="top"></a>
 <h3 align="center">Bible Code Project</h3>
 
+###### All documentation pages are still under construction !!!!!
+
 The Bible Code Project is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized Bible project. Github repositories are a cloud storage platform for developers to store their code and data files. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project. If you use or alter any of this data or source code, please change the name of your project so people don't get confused.
 
 [American Computerized Bible Website](https://acbible.com) - The live operational website for the American Computerized Bible.

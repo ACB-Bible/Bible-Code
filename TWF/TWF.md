@@ -32,14 +32,15 @@ The books and chapters in the tables below have been partially edited. Google's 
 ---
 
 ##### Jesus Quotes and Special Characters
-JesusQuotes:
+###### JesusQuotes:
 The JesusQuotes field contains the values of either 0 or 1. If it contains a 0, that means that there are no words in the verse spoken by Jesus. If it contains a 1, it means that the verse contains words spoken by Jesus.
-
-Special Characters:
+<br>
+###### Special Characters:
 These special characters are used by the algorythms in the "American Computerized Bible" and the "New Christian Bible" to indicate words spoken by Jesus.
 
 1. Double Quotes Character: ``` " ```
-    The Double Quote character is used in conjunction with the other special characters. It is placed before the Acute Grave character to indicate in the displayed text that a quotation by Jesus has begun. It is also placed after the Acute Accent character to indicate the end of the words spoken by Jesus. The Double Quotes  character is used throughout the text to indicate normal quotations, and it is rendered in the final display text. The Acute Grave and the Acute Accent characters are not rendered in the final display text. 
+    The Double Quote character is used in conjunction with the other special characters. It is placed before the Acute Grave character to indicate in the displayed text that a quotation by Jesus has begun. It is also placed after the Acute Accent character to indicate the end of the words spoken by Jesus. The Double Quotes  character is used throughout the text to indicate normal quotations, and it is rendered in the final display text. The Acute Grave and the Acute Accent characters are not rendered in the final display text.
+    In the NCB("NewChristian Bible") Project these characters are used in the index.js file loadText() function to colorize or "Red Letter" all of the quotes attributed to Jesus.
 2. Single Quotation Character: ``` ' ```
     The Single Quotation character is used within all quotations where the first person is is quoting another person. It is also rendered in the final display text.
 3. Acute Grave Character: ``` ` ```
