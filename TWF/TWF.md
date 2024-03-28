@@ -22,10 +22,10 @@ The books and chapters in the tables below have been partially edited. Google's 
 
 |ID   |Book     |Chapters   |     |ID   |Book |Chapters|
 | --- | ---     | ---       | --- | --- | --- | ---    |
-|1    |Genesis  |Rough Draft|     |40   |Matthew|16:12 |
+|1    |Genesis  |Rough Draft|     |40   |Matthew|18:1 |
 |2    |Exodus   |Rough Draft|     |41   |Mark|4:15     |
 |3    |Leviticus|Rough Draft|     |66   |Revelation|6:1|
-|4    |Numbers  |2:5|
+|4    |Numbers  |3:4|
 
 | | | | | |
 
